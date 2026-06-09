@@ -1,0 +1,32 @@
+body {
+  max-width: 580px;
+  width: 90%;
+  margin: auto;
+  margin-top: 3em;
+  margin-bottom: 3em;
+
+
+  font-family: arial;
+  line-height: 1.3;
+}
+
+table td {
+  vertical-align: top;
+}
+
+h1 {
+ color: #012169; /* red: #C8102E, white: #FFFFFF, blue: #012169 */
+  text-align: center;
+/*  background-color: white;*/
+/*  box-shadow: 10px 10px 10px 10px #C8102E, -5px -5px 5px -5px #C8102E;*/
+/*  margin: 20px;*/
+}
+
+a {
+  color: #C8102E; /* red: #C8102E, white: #FFFFFF, blue: #012169 */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
